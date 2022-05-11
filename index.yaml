@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eksdemo:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2022-05-11T12:33:02.688122127+05:30"
+    description: A Helm chart for EKS Workshop Microservices application
+    digest: 35ca2bfe001708d491a739a66f35d1fbbf81d997bb1c020f4dc8d0ed43c5b9aa
+    name: eksdemo
+    urls:
+    - https://github.com/internPeace/my-helm-charts/releases/download/eksdemo-0.1.0/eksdemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-11T12:33:01.360645847+05:30"
